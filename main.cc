@@ -9,8 +9,8 @@
 #include <ctype.h>
 #include <string.h>
 #include <sstream>
-#include "execute.h"
-#include "lexer.h"
+#include "run.h"
+#include "lex.h"
 #include <vector>
 
 using namespace std;
